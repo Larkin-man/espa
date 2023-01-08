@@ -9,3 +9,5 @@
 *.omwsave
 *.test
 *.geany
+*.ess
+*.xz
